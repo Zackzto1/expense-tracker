@@ -9,3 +9,5 @@ Simple Python expense tracking system with persistent file storage and expense a
 - Load saved expenses automatically
 - View total spending
 - Track highest expense
+
+Built and managed on iPad using Working Copy and Kodex.
