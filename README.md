@@ -9,8 +9,3 @@ Simple Python expense tracking system with persistent file storage and expense a
 - Load saved expenses automatically
 - View total spending
 - Track highest expense
-
-## Run
-
-```bash
-python expense_tracker.py
