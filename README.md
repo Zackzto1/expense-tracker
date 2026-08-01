@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Simple Python expense tracking system with persistent file storage and expense analysis.
+A lightweight Python tool for tracking daily expenses and managing budgets.
 
 ## Features
 
